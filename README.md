@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App Weather App
+
+![Alt Text](https://user-images.githubusercontent.com/toubielawbar/101331074_comp3123_labtest2/screenshot1.jpg)
+![Alt Text](https://user-images.githubusercontent.com/toubielawbar/101331074_comp3123_labtest2/screenshot2.jpg)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
